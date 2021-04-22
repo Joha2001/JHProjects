@@ -8,7 +8,7 @@ The current branch includes all projects and labs related to the course, COP 350
 
 The four projects are:
 
-P1 - Blackjack: Plays the blackjack game, based on a randomizer (that uses a specific seed for testing purposes).
+P1 - Blackjack: Plays the blackjack game, based on a randomizer (that uses a specific seed for testing purposes).\
 P2 - Image RLE: Outputs images and can transcode images.
 P3 - Pakudex Program: Makes a Pokedex esque system (learning classes and their intricacies).
 P4 - GatorRaider: Pacman AI to try and optimize score.
