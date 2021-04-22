@@ -1,4 +1,4 @@
-# Java Projects
+# C++ Projects
 These include any projects made in the programming language, C++.
 The creator of all these files are a student named John Hoang.
 
