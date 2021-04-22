@@ -4,7 +4,4 @@ There will be multiple sections based on the different languages that I have lea
 
 Currently, the branches that exists (languages that I have learned) are:
 
-Java
-JavaScript
-C++
-Python
+Java | JavaScript | C++ | Python
