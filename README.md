@@ -21,5 +21,5 @@ L6 - Cowsay (Code to help learn command line programming)\
 L7 - Dragon (^ Expansion on the topics from Cowsay)\
 L8 - Analyzer (Searching for specific strings in data using different search algorithms)\
 L9 - Factorial (Learning how to deal with different recursive functions)\
-L10 - Return of the Cow (Expansion on the topics from Cowsay + Dragon)\
+L10 - Return of the Cow (Expansion on the topics from Cowsay + Dragon)
 
