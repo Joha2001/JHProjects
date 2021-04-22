@@ -1,2 +1,0 @@
-# OldSchoolProjects
-Old School Projects
